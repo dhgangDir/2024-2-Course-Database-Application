@@ -1,0 +1,1 @@
+CREATE INDEX cust_idx ON Customer(name);
